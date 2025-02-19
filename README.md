@@ -1,4 +1,4 @@
-# Hi there, I'm Deepak S! 👋
+# Hi there, I'm Deepak! 👋
 
 ## 🚀 About Me
 
