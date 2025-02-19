@@ -58,7 +58,7 @@ I have hands-on experience in Python, TensorFlow, PyTorch, and Scikit-learn, alo
 ---
 
 ## 🤝 Let's Connect!
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](#)https://www.linkedin.com/in/deepak-s-aba32531a
 - 🌎 [Portfolio Website](#) *(Coming Soon!)*
 - 📝 [Medium Blog](#) *(Coming Soon!)*
 
