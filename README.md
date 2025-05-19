@@ -42,6 +42,11 @@ I have hands-on experience in Python, TensorFlow, PyTorch, and Scikit-learn, alo
 - Fine-tuned LLaMA-2-7B-chat model for job-related Q&A chatbot using QLoRa.
 - **Built with**: PEFT, Transformers, Torch
 
+
+### 🔹 RailWay ticket booking using face verfication 
+- book the railway ticket using the face verification 
+
+
 ### 🔹 [Paper Replications](#)
 - Successfully replicated key AI research papers:
   - **Vision Transformer**
